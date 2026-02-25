@@ -1,0 +1,5 @@
+{
+  "name": "ResuMaster AI - Smart Resume Analyzer",
+  "description": "An intelligent resume evaluation system that uses Gemini AI to analyze candidates' resumes, calculate ATS scores, perform skill gap analysis, and provide bullet-point rewrites based on the STAR method.",
+  "requestFramePermissions": []
+}
